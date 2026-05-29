@@ -45,7 +45,7 @@ header{
 }
 
 .hero-section{
-    background-image: url('../assets/img/imagem_principal.jpg');
+    background-image: url('../assets/img/imagem_teste.png');
     height: 900px;
     background-size: cover;
 }
@@ -66,4 +66,15 @@ header{
 
 .card :hover{
     transform: scale(1.02);
+}
+
+.section-destaques{
+    height: 500px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-item img{
+    height: 500px;
 }
